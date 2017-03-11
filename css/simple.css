@@ -48,3 +48,15 @@ aside {
 	border-radius: 1em;
 	background-color: #FFFFC0;
 }
+table, th, td {
+	border: 1px solid white;
+	border-collapse: collapse;
+}
+tr {
+	background-color: silver;
+}
+th, td {
+	vertical-align: top;
+	padding: 0.5em;
+    text-align: left;
+}
